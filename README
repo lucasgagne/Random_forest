@@ -3,5 +3,6 @@ Which predicts whether an email is spam/ legitamite and whether or not someone s
 1. decision_tree_starter.py has files for  the implementation of decision trees and random forest objects
 2. process_spam_data.py and process_titanic_data.py both process the raw CSV data into workable pandas and NumPy data
 3. performance_eval.py evaluates and visualizes accuracy to optimize the model
-4. visualize_titanic_tree.py generates a visual representation of the tree in order to actually interpret the decisions the model makes. 
+4. visualize_titanic_tree.py generates a visual representation of the tree in order to actually interpret the decisions the model makes.
+5. q4_5.py runs through a pipeline of creating the forest object, training the model, evaluating accuracy, and downloading our results. 
 
